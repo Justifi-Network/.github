@@ -2,5 +2,5 @@
 
 we develop networking, software, and hosting solutions.
 
-- [Our website](https://justifinetwork.com)
-- Contact us at contact@justifinetwork.com
+- learn more on [our website](https://justifinetwork.com)
+- contact us at contact@justifinetwork.com
